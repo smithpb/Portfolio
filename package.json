@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echopecho/Portfolio.git"
+  },
+  "author": "Phillip Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echopecho/Portfolio/issues"
+  },
+  "homepage": "https://github.com/echopecho/Portfolio#readme"
+}
